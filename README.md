@@ -1,4 +1,4 @@
-My Coding Journey Portfolio
+My Coding Journey & Portfolio
 
 Hi there 👋
 
