@@ -16,7 +16,7 @@ Why This Portfolio is Useful:
 
 Getting Started:
 
-If you're interested in viewing my portfolio, simply head over to https://chriscodes-io.github.io 
+If you're interested in viewing my portfolio, simply head over to [https://chriscodes-io.github.io ](https://chriscodes-io.github.io/chriscodes-io/)
 
 Need Help or Have Questions?
 
