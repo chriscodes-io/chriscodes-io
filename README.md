@@ -16,7 +16,7 @@ Why This Portfolio is Useful:
 
 Getting Started:
 
-If you're interested in viewing my portfolio, simply head over to https://username.github.io (replace username with my actual GitHub username).
+If you're interested in viewing my portfolio, simply head over to https://chriscodes-io.github.io 
 
 Need Help or Have Questions?
 
