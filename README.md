@@ -10,7 +10,9 @@ My Core Competencies:
 
 Showcase of Skills: Demonstrates my ability to build full-stack applications, from custom WordPress themes to dynamic user interfaces.
 
-Project Expertise: Highlights my project management skills and my process for turning complex problems into elegant, functional solutions.
+Project Expertise:
+
+Highlights my project management skills and my process for turning complex problems into elegant, functional solutions.
 
 Professional Portfolio: Serves as a living resume of my work, reflecting my dedication to quality and continuous improvement.
 
